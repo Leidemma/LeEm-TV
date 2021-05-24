@@ -1,0 +1,272 @@
+#EXTM3U
+
+#EXTINF:-1  group-title="LeEm TV", DREIKOTV CANAL 24/7
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1  group-title="LeEm TV", EIN SPORTS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=winhd&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", UNIVERSO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=universo&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", RCN
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=rcn&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", LA LIGA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=laliga&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NBC
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=nbcsn&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", GOLTV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=goltv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AFIZZIONADOS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=afizzionados&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", BEIN SPORTS N
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=beines&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DIRECTV SPORTS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=directv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DIRECTV SPORTS +
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=directvplus&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FOX SPORTS PREMIUM
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsportp&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AZCORAZON
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=azcorazon&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", A&E
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=ae&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AXN
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=axn&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=comedy&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", E!
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=e&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FX
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=fx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISCOVERY ID
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=id&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", LIFETIME
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=lifetime&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", SONY
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=sony&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TBS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tbs&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TLC
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tlc&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TLNOVELAS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tlnovelas&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TNT SERIES
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tntseries&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TRUTV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=trutv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=universal&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", WARNER
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=warner&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AZ CINEMA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=azcinema&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AMC
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=amc&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", CINEMAX
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=cinemax&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", CINE LATINO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=cinelatino&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", CINE LATINO HD
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=cinelatinohd&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DE PELICULA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=dpelicula&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DE PELICULA PLUS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=dpeliculaplus&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", EUROPA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=europa&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FILMS & ARTS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=filmarts&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FXM
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=fxm&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", GOLDEN
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=golden&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=edge&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", GOLDEN PLUS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=goldenplus&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=goldenp&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", I SAT
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=isat&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MORBIDO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=morbido&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MULTI CINEMA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mc&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MULTI PREMIER
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mp&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", PARAMOUNT CHANNEL
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=paramount&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", SPACE
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=space&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STAR CINEMA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=starcinema&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STAR CLASSICS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=starclassics&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STAR COMEDY
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=starcomedy&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STAR FUN
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=starfun&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STAR HITS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=starhits&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STAR LIFE
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=starlife&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STAR SERIES
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=starseries&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=studiou&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", SYFY
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=syfy-1&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TCM
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tcm&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TNT
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tnt&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AZ MUNDO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=azmundo&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=animalp&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=discovery&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISCOVERY CIVILIZATION
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=dcivil&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISCOVERY THEATER
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=dtheater&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISCOVERY TURBO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=dturbo&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISCOVERY WORLD
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=dworld&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FOOD NETWORK
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=food&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", GOURMET
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=gourmet&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", HISTORY
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=history&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", H2
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=history2&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", H&H
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=hh&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", HOLATV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=holatv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MAS CHIC
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=maschic&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NAT GEO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=natgeo&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NAT GEO WILD
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=natgeowild&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AZ CLIC
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=azclic&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", BANDAMAX
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=bandamax&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", EXATV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=exatv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", HTV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=htv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", LA MEJOR TV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=lamejor&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MTV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mtv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MTV TR3S
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mtvtr3s&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MTV HITS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mtvhits&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MTV LIVE
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mtvlive&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MTV 80S
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mtv80s&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NICK MUSIC
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=nickmusic&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TELEHIT
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=telehit&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TELEHIT PLUS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=telehitplus&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", VH1
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=vh1&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", VIDEOROLA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=videorola&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", A+
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=amas&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", CANAL 5
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=elcinco&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", AZTECA 7
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=azteca7&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NU9VE
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=nueve&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=distrito&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", IMAGEN TV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=imagentv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", UNICABLE
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=unicable&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MULTIMEDIOS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=multimedios&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MVS TV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=mvstv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", CNN
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=cnnes&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FORO TV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=forotv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", MILENIO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=milenio&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", GALAVISION
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=galavision&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TELEMUNDO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=telemundo&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", UNIMAS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=unimas&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", UNIVISION
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=univisionhd&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", CANAL CLARO
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=claro&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", ESPN
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn1mx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", ESPN 2
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn2mx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", ESPN 3
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn3mx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espnextramx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espndep&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FOX SPORTS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport1mx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FOX SPORTS 2
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport2mx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", FOX SPORTS 3
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport3mx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TUDN MX
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tudnmx&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TUDN US
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tudnus&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tvcdep&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", BABYTV
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=babytv&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", BABY FIRST
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=babyfirts&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", BITME
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=bitme&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", BOOMERANG
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=boomerang&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=cartoon&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=disneych&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISNEY JR
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=disneyjr&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISNEY XD
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=disneyxd&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=dkids&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NAT GEO KIDS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=natgeokids&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NICK
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=nick&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", NICK JR
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=nickjr&f=.m3u8
+#EXTINF:-1  group-title="LeEm TV", TOONCAST
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tooncast&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", TEN Canal 10 SD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
